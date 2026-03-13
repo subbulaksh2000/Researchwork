@@ -1,3 +1,3 @@
 # Researchwork
 Gideon and Levin
-resea
+research
